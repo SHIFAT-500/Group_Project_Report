@@ -5,5 +5,6 @@ Group Members:
 2. Arifur Rahman (ID: 21225103499)
 3. Sumaiya Hossain (ID: 21225103473)
 4. Md Shifat Hossain (ID: 21225103500)
+5. Arifa Haque (ID: 21225103100)
 
-Project Title: 
+Project Title: Certificate generator
