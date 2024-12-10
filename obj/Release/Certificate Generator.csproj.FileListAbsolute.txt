@@ -1,0 +1,44 @@
+C:\vs code\Certificate Generator\Certificate Generator\bin\Release\Certificate Generator.exe.config
+C:\vs code\Certificate Generator\Certificate Generator\bin\Release\Certificate Generator.exe
+C:\vs code\Certificate Generator\Certificate Generator\bin\Release\Certificate Generator.pdb
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate Generator.csproj.AssemblyReference.cache
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.Add_Student4.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.Add_Student3.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.Add_Student2.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.Add_Student.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.addgroup.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.admindashboard.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.adminlogin.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.createcertificate4.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.createcertificate3.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.createcertificate2.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.createcertificate1.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.issuebox.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.reportissue.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.sdplist.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.listcertificate4.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.listcertificate3.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.listcertificate2.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.listcertificate1.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.mainform.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.profile4.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.profile3.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.profile2.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.profile1.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.Properties.Resources.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.signup.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.takecourse4.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.takecourse3.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.takecourse2.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.takecourse1.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.userdashboard.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.userlogin.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.sdpgrouplist.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.viewcourse4.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.viewcourse3.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.viewcourse2.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate_Generator.viewcourse1.resources
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate Generator.csproj.GenerateResource.cache
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate Generator.csproj.CoreCompileInputs.cache
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate Generator.exe
+C:\vs code\Certificate Generator\Certificate Generator\obj\Release\Certificate Generator.pdb
