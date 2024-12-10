@@ -85,6 +85,10 @@ Md. Shifat Hossain
 Supervisor: Labiba Farah, Lecturer, Department of CSE, Bangladesh University of Business and Technology
 
 
+Entity Relationship Diagram:
+
+![image](https://github.com/user-attachments/assets/acb6687a-2b1a-4528-972b-00b86f0982aa)
+
 SQL schema for creating database:
 
 -- Create databases
