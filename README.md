@@ -259,3 +259,11 @@ CREATE TABLE usertable (
     pass VARCHAR(MAX)
 );
 
+
+Flowchart:
+
+![image](https://github.com/user-attachments/assets/e5311f83-a37a-474a-b47f-0ff7ca995a8d)
+
+
+
+
