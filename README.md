@@ -24,7 +24,7 @@ Software Requirements:
   
 STEPS:
 
-1. Clone the repository:   git clone [https://github.com/your-repo/certificate-generator](https://github.com/SHIFAT-500/software-engineering-group-project).git
+1. Clone the repository:   git clone [https://github.com/your-repo/certificate-generator](https://github.com/SHIFAT-500/software-engineering-group-project)
 2. Open the project in Visual Studio.
   
 3. Configure the database:
